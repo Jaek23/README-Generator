@@ -2,8 +2,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
-// TODO: Create an array of questions for user input
 
+// TODO: Create an array of questions for user input
  const questions = [
     {
         type: 'input',
@@ -12,7 +12,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
       },
       {
           type: 'input',
-          message: 'Provide a  short description for your project.',
+          message: 'Provide a short description for your project.',
           name: 'description',
         },
       {

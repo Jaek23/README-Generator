@@ -1,8 +1,10 @@
 
-  # README 
+  # README file
+
+  # [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] 
 
   ## Description 
-  ### Learning how to create a README file with inquirer/Node.JS
+  ### This project was to build a readme.md file using inquirer and node.
 
   ## Table of Contents:
   * [Installation](#installation)
@@ -14,24 +16,26 @@
   * [Questions](#questions)
 
   ## Installation
-  ### Inquirer 8.2.4/Node.JS
+  ### inqurier and node is required.
 
   ## Usage 
-  ### N/A
+  ### Users can use this readme file for their projects. 
 
   ## Credits
-  ### N/A
+  ### none
 
-  ## License 
-  ### MIT
+  ## License
+  ### This project is under MIT license.
+  ### https://opensource.org/licenses/MIT
 
   ## Contributions
-  ### Add to the README file
+  ### N/A
 
   ## Tests
-  ### no tests available
+  ### N/A
 
   ## Questions 
-  ### JaeK@email.com
-  ### JaeK
+  ### If you have additional questions, you can contact me at: 
+  ### Email: JaeKim@email.com
+  ### GitHub: JaeK23
 
