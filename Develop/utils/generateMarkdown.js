@@ -3,13 +3,13 @@
 function renderLicenseBadge(license) {
   let badge = " ";
   if(license === 'MIT'){
-    badge = '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]'
+    badge = '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)'
   }else if (license === 'Apache 2.0'){
-    badge = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]'
+    badge = '![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)'
   }else if (license === 'Mozilla 2.0'){
-    badge = '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]'
+    badge = '![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)'
   }else if (license === 'Boost Software 1.0'){
-    badge = '[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)]'
+    badge = '![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)'
   }else {
     badge = " "
   }
